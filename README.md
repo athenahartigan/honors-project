@@ -1,1 +1,1 @@
-# honors-project
+# Athena Hartigan's Honors Project
